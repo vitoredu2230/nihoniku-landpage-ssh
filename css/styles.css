@@ -135,7 +135,6 @@ nav {
 }
 
 /* Prices and plans */
-
 .pricing-container {
     padding-bottom: 5rem;
     text-align: center;
@@ -173,6 +172,26 @@ nav {
     color: #333;
 }
 
+#linha-1 {
+    padding: 20px;
+}
+
+#linha-2 {
+    padding: 5px;
+}
+
+#linha-3 {
+    padding: 5px;
+}
+
+#linha-4 {
+    padding: 5px;
+}
+
+#linha-5 {
+    padding: 5px;
+}
+
 .plan .price {
     width: 120px;
     height: 120px;
@@ -207,7 +226,6 @@ nav {
 .plan .recommended {
     background-color: #F45C57;
 }
-
 /* Contact form */
 .contact-container {
     text-align: center;
